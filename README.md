@@ -1,25 +1,6 @@
 # VBA-challenge
-Test Data Files:
+## Overview: 
+The challenge entails creating a VBA script to automate the analysis of stock market data for multiple stocks over a year. The script extracts key information like ticker symbols, yearly and percentage changes, and total stock volume, offering a comprehensive view of each stock's performance.
 
-Used Multiple_year_stock_data.xls file (3 sheets for different years 2018,2019,2020)
-as a test data files to Create a script that will loop through each year of stock data to get following analysis. 
-•	Ticker symbol
-•	The total Volume of the stock
-•	The percent change over a year.
-•	Yearly change
-
-This scrip also includes functionality to return:
-•	the stock with the "Greatest % increase", 
-•	"Greatest % decrease", 
-•	"Greatest total volume"
-
-VBA-challenge repository includes following files:
-
-•	Screenshots of the results 
-•	VBA script files (.vbs,.cls)
-•	README file 
-
-Note: I was not able to upload Excel sheet here as Github was showing me erroe (file size is exceeded).
-So I uploaded excel sheet on google drive as it was quite big in size (100MB). 
-https://drive.google.com/file/d/1RS_xyN1X0MMAsBWJJcF1FY13FmswAkw9/view?usp=drive_link
-![image](https://github.com/Ani2587/VBA-challenge/assets/17106097/d50484bd-182f-4d3e-b3fe-b7790706a1e7)
+## Purpose:
+The purpose is to streamline stock analysis through automation, utilizing VBA to efficiently process data on each stock. The script's added functionality identifies top performers, aiding in trend detection. Its ability to run across all worksheets ensures scalability, demonstrating programming and Excel proficiency while facilitating data-driven decision-making in finance.
